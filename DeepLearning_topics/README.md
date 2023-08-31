@@ -8,7 +8,7 @@ This project is done in AWS SageMaker using s3 for data storage and SageMaker st
 ## Dataset
 The provided dataset is the dogbreed classification dataset which can be found in the classroom.
 
-this data set contains data for 133 breeds or classes. The following plot shows the breed distribution in the training set:
+this dataset contains data for 133 breeds or classes. The following plot shows the breed distribution in the training set:
 
 ![alt text](https://github.com/miguelmayhem92/udacity_projects/blob/main/DeepLearning_topics/screenshots/train_breed_dist.jpg)
 
@@ -86,6 +86,8 @@ to deploy the model:
  
  * a unit test for the input data (raise one error if the input data is not a valid image)
  * Reshape step (because images do not have the same size and the model has an input shape!) 
+
+![alt text](https://github.com/miguelmayhem92/udacity_projects/blob/main/DeepLearning_topics/screenshots/prediction.jpg)
 
 ## Standout Suggestions
 

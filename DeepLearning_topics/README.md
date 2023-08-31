@@ -8,7 +8,7 @@ This project is done in AWS SageMaker using s3 for data storage and SageMaker st
 ## Dataset
 The provided dataset is the dogbreed classification dataset which can be found in the classroom.
 
-![alt text](https://github.com/miguelmayhem92/udacity_projects/blob/main/DeepLearning_topics/sreenshots/train_breed_dist.jpg)
+![alt text](https://github.com/miguelmayhem92/udacity_projects/blob/main/DeepLearning_topics/screenshots/train_breed_dist.jpg)
 
 ### Access
 Upload the data to an S3 bucket through the AWS Gateway so that SageMaker has access to the data. 
